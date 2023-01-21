@@ -16,7 +16,7 @@ Dans cette deuxième partie, nous devions notamment tester les contraintes d'exi
 Pour cette dernière partie, nous avions carte blanche sur les sujets des requêtes mais nous devions respecter une certaine quantité  
 ***Exemple :*** 2 projections avec restriction
 
-En ce qui concerne les jointures, il nous avait été explicitement demandé de la manière suivante :  
+En ce qui concerne les jointures, il nous avait été explicitement demandé de les écrire de la manière suivante :  
 ```sql
 SELECT *
 FROM Table1, Table2
@@ -24,5 +24,5 @@ WHERE condition de jointure;
 ```
 C'est pourquoi, nous ne nous sommes par servi de JOIN ON et des différentes variantes pour les jointures.
 
-***Auteurs : ***
-Bouillis Awen et moi-m
+***Auteurs :***
+Bouillis Awen et moi-même
